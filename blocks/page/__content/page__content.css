@@ -1,0 +1,9 @@
+.page__content {
+    margin: 0;
+    padding: 0;
+    align-self: center;
+    min-width: 320px;
+    max-width: 750px;
+    background-color: #2A2C2F;
+    position: relative;
+}

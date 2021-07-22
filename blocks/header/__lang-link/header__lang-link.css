@@ -1,0 +1,18 @@
+.header__lang-link {
+    margin: 30px 18px 8px 0;
+    padding: 0;
+    line-height: 20px;
+    font-size: 18px;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-weight: normal;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header__lang-link:last-of-type {
+    margin-left: 0;
+}
+
+.header__lang-link:active {
+    text-decoration: underline;
+}

@@ -1,6 +1,8 @@
 .page {
     margin: 0;
     padding: 0;
+    min-width: 320px;
+    max-width: 750px;
     position: relative;
     background-color: lightgrey;
     font-family: 'Inter', 'Arial', sans-serif;

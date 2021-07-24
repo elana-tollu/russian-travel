@@ -1,9 +1,9 @@
 .header {
-    margin: 0;
     padding: 16px 16px 0 16px;
-    min-width: 288px;
+    background-color: #2A2C2F;
     position: relative;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+    min-width: 288px;
 }

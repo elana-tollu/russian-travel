@@ -1,5 +1,5 @@
-.intro {
+.photo-grid {
     padding: 32px 16px;
-    background-color: #2A2C2F;
+    list-style-type: none;
     width: 320px;
 }

@@ -1,4 +1,6 @@
 .place__link {
+    margin: 0;
+    padding: 0 16px 0 16px;
     font-family: 'Inter', 'Arial', sans-serif;
     font-weight: normal;
     font-size: 18px;

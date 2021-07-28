@@ -5,4 +5,9 @@
     font-size: 24px;
     line-height: 24px; /* identical to box height, or 100% */
     color: #FFFFFF;
+    opacity: 1;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
 }

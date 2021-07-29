@@ -3,5 +3,12 @@
     padding: 0 0 32px 0;
     align-self: center;
     background-color: #2A2C2F;
-    width: 320px;
+    min-width: 320px;
+    width: 100%;
+}
+
+@media (min-width: 640px) {
+    .lead{
+        padding: 0 0 44px 0;
+    }
 }

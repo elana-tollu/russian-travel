@@ -16,3 +16,10 @@
 .header__lang-link:first-of-type {
     text-decoration: underline;
 }
+
+@media (min-width: 640px) {
+    .header__lang-link {
+        line-height: 28px;
+        font-size: 24px;
+    }
+}

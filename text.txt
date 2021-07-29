@@ -87,3 +87,9 @@ footer
     __link : Календарь
     __link : Путешествия
     __copyright : © 2021. Элана Толлю
+
+@media (min-width: 640px) {}
+
+@media (min-width: 960px) {}
+
+@media (min-width: 1280px) {}

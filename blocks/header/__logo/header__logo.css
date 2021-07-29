@@ -1,7 +1,16 @@
 .header__logo {
     position: absolute;
-    left: 0;
-    bottom: 0;
+    left: 16px;
+    top: 16px;
     width: 142px;
     height: 42px;
+}
+
+@media (min-width: 640px) {
+    .header__logo {
+        left: 24px;
+        top: 28px;
+        width: 176px;
+        height: 52px;
+    }
 }

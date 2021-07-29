@@ -1,7 +1,15 @@
 .places {
     padding: 32px 0 64px 0;
     list-style-type: none;
-    width: 320px;
+    min-width: 320px;
+    width: 100%;
     display: grid;
     gap: 50px;
+}
+
+@media (min-width: 640px) {
+    .places {
+        padding: 44px 24px;
+        gap: 73px;
+    }
 }

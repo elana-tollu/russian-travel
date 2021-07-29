@@ -2,3 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
+@media (min-width: 640px) {
+    .place {
+        display: grid;
+        grid-template-columns: 340px 1fr;
+        grid-template-rows: 92px 1fr;
+        gap: 48px 28px;
+    }
+}

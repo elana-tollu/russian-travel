@@ -7,7 +7,13 @@
     .place {
         display: grid;
         grid-template-columns: 340px 1fr;
-        grid-template-rows: 92px 1fr;
         gap: 48px 28px;
+    }
+}
+
+@media (min-width: 960px) {
+    .place {
+        grid-template-columns: 440px 1fr;
+        gap: 48px 32px;
     }
 }

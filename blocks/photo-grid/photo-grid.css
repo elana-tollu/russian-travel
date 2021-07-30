@@ -22,3 +22,10 @@
         gap: 14px;
     }
 }
+
+@media (min-width: 1280px) {
+    .photo-grid {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 16px;
+    }
+}

@@ -12,3 +12,9 @@
         padding: 0 0 44px 0;
     }
 }
+
+@media (min-width: 960px) {
+    .lead {
+        padding: 0 48px 48px 48px;
+    }
+}

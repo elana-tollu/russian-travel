@@ -2,10 +2,11 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 320px;
-    height: 200px;
+    width: 100%;
+    min-width: 320px;
+    min-height: 200px;
     z-index: 3;
-    opacity: 0;
+    opacity: 0.3;
 }
 
 .cover__overlay:hover {

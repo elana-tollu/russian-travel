@@ -16,3 +16,9 @@
         margin: 32px 0 56px 0;
     }
 }
+
+@media (min-width: 1280px) {
+    .lead__subtitle {
+        margin-bottom: 64px;
+    }
+}

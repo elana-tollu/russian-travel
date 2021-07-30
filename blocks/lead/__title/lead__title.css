@@ -15,3 +15,9 @@
         font-size: 96px;
     }
 }
+
+@media (min-width: 1280px) {
+    .lead__title {
+        margin-top: 56px;
+    }
+}

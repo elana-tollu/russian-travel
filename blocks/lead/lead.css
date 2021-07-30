@@ -18,3 +18,9 @@
         padding: 0 48px 48px 48px;
     }
 }
+
+@media (min-width: 1280px) {
+    .lead {
+        padding: 0 148px 48px 148px;
+    }
+}

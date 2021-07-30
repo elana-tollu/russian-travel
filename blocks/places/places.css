@@ -20,3 +20,9 @@
         gap: 80px;
     }
 }
+
+@media (min-width: 1280px) {
+    .places {
+        padding: 44px 148px 92px 148px;
+    }
+}

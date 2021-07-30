@@ -1,4 +1,14 @@
 .footer {
     padding: 32px 0 24px 16px;
-    width: 320px;
+    min-width: 320px;
+    width: 100%;
+}
+
+@media (min-width: 640px) {
+    .footer {
+        padding: 88px 24px 24px 24px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
 }

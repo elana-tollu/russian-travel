@@ -6,3 +6,10 @@
     line-height: 14px; /* identical to box height, or 100% */
     color: #FFFFFF;
 }
+
+@media (min-width: 640px) {
+    .footer__copyright {
+        margin: 0;
+        line-height: 16px;
+    }
+}

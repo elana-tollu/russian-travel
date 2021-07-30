@@ -12,3 +12,9 @@
         justify-content: space-between;
     }
 }
+
+@media (min-width: 960px) {
+    .footer {
+        padding: 92px 48px 24px 48px;
+    }
+}

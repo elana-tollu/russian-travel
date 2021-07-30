@@ -7,3 +7,9 @@
     line-height: 26px;
     color: #FFFFFF;
 }
+
+@media (min-width: 960px) {
+    .intro__text {
+        width: 690px;
+    }
+}

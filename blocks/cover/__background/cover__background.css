@@ -1,8 +1,8 @@
 .cover__background {
-    position: absolute;
-    top: 0;
-    left: 0;
+    grid-area: container;
+    object-fit: cover;
     min-width: 320px;
     width: 100%;
     z-index: 1;
 }
+

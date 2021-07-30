@@ -1,5 +1,5 @@
 .cover__title {
-    margin: 32px 16px 0 16px;
+    margin: 0;
     font-family: 'Inter', 'Arial', sans-serif;
     font-weight: 900;
     font-size: 32px;
@@ -10,21 +10,13 @@
 
 @media (min-width: 450px) {
     .cover__title {
-        margin: 72px 60px 0 60px;
         font-size: 52px;
     }
 }
 
 @media (min-width: 640px) {
     .cover__title {
-        margin: 115px 104px 0 104px;
         font-size: 72px;
         line-height: 1.1;
-    }
-}
-
-@media (min-width: 960px) {
-    .cover__title {
-        margin: 195px 232px 0 232px;
     }
 }

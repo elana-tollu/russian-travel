@@ -1,5 +1,5 @@
 .cover__background {
-    grid-area: container;
+    grid-area: cover;
     object-fit: cover;
     min-width: 320px;
     width: 100%;

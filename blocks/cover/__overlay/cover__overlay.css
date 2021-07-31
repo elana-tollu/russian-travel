@@ -1,5 +1,5 @@
 .cover__overlay {
-    grid-area: container;
+    grid-area: cover;
     object-fit: cover;
     width: 100%;
     min-width: 320px;

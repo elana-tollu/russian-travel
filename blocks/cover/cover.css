@@ -1,6 +1,6 @@
 .cover {
     display: grid;
-    grid-template: "container";
+    grid-template-areas: "cover";
     place-items: center;
     place-content: center;
     background: transparent;

@@ -4,7 +4,7 @@
     position: relative;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: space-between;
     min-width: 320px;
     min-height: 58px;
     width: 100%;

@@ -10,6 +10,6 @@
 
 @media (min-width: 960px) {
     .intro__text {
-        width: 690px;
+        max-width: 690px;
     }
 }

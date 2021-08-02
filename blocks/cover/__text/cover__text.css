@@ -1,3 +1,4 @@
 .cover__text {
     grid-area: cover;
+    z-index: 4;
 }

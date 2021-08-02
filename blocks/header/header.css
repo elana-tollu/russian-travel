@@ -6,14 +6,12 @@
     flex-direction: row;
     justify-content: space-between;
     min-width: 320px;
-    min-height: 58px;
     width: 100%;
 }
 
 @media (min-width: 640px) {
     .header {
         padding: 28px 24px 0 24px;
-        min-height: 80px;
     }
 }
 

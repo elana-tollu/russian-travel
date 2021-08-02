@@ -7,9 +7,9 @@
     gap: 50px;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 750px) {
     .places {
-        padding: 44px 24px;
+        padding: 44px 24px 90px 24px;
         gap: 73px;
     }
 }

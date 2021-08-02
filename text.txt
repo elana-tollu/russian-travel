@@ -93,3 +93,13 @@ footer
 @media (min-width: 960px) {}
 
 @media (min-width: 1280px) {}
+
+
+
+    opacity: 1;
+    transition: opacity 1s ease;
+}
+    :hover {
+    opacity: 1;
+    transition: opacity 1s ease;
+}

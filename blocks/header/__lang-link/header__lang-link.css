@@ -9,6 +9,12 @@
     text-decoration: none;
     display: flex;
     align-items: flex-end;
+    opacity: 1;
+    transition: opacity 1s ease;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 .header__lang-link:last-of-type {

@@ -30,6 +30,7 @@
         margin-right: 144px;
         margin-left: 144px;
         max-width: 640px;
+    }
 }
 
 @media (min-width: 1280px) {

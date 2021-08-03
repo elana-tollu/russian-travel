@@ -15,10 +15,10 @@
     height: 100%;
     z-index: 4;
     content: "";
-    opacity: 0;
+    opacity: 0.3;
     transition: opacity 1s ease;
 }
 
 .cover__title-link:hover::before {
-    opacity: 0.3;
+    opacity: 0.8;
 }

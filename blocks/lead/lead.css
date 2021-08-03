@@ -1,5 +1,5 @@
 .lead {
-    padding: 0 0 32px 0;
+    padding-bottom: 32px;
     display: flex;
     flex-direction: column;
     align-self: center;
